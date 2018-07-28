@@ -1,4 +1,4 @@
-package io.github.nzlong.verify.kit;
+package io.github.nzlong.verify.kit.imageCode;
 
 import java.awt.*;
 import java.util.Random;
