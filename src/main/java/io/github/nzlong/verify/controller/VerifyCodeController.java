@@ -5,7 +5,7 @@ import com.blade.mvc.annotation.Route;
 import com.blade.mvc.http.HttpRequest;
 import com.blade.mvc.http.HttpResponse;
 import com.blade.mvc.http.HttpSession;
-import io.github.nzlong.verify.kit.ValidateCode;
+import io.github.nzlong.verify.kit.imageCode.ValidateCode;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

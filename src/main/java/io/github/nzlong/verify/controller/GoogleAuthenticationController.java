@@ -8,7 +8,7 @@ import com.google.zxing.EncodeHintType;
 import com.google.zxing.MultiFormatWriter;
 import com.google.zxing.WriterException;
 import com.google.zxing.common.BitMatrix;
-import io.github.nzlong.verify.kit.GoogleAuthentication;
+import io.github.nzlong.verify.kit.google.GoogleAuthentication;
 import io.github.nzlong.verify.kit.MatrixToImageWriter;
 
 import javax.imageio.ImageIO;

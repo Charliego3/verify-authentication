@@ -1,5 +1,6 @@
-package io.github.nzlong.verify.kit;
+package io.github.nzlong.verify.kit.google;
 
+import io.github.nzlong.verify.kit.RandomKit;
 import org.apache.commons.codec.binary.Base32;
 import org.apache.commons.codec.binary.Base64;
 
