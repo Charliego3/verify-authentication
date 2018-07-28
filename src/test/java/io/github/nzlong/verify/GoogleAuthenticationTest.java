@@ -1,6 +1,6 @@
 package io.github.nzlong.verify;
 
-import io.github.nzlong.verify.kit.GoogleAuthentication;
+import io.github.nzlong.verify.kit.google.GoogleAuthentication;
 import org.junit.Test;
 
 /**
